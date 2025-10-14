@@ -28,10 +28,6 @@ uvicorn backend.app:app --reload --port 8000
 # Just double-click: dashboard/index.html
 # or serve it locally (e.g., python -m http.server in the dashboard folder)
 ```
-
-> Optional: Set `OPENAI_API_KEY` in your environment to use a real LLM for explanations.
-> Without it, the system uses a deterministic, **hallucination-free** template.
-
 ---
 
 ## Architecture
@@ -86,8 +82,7 @@ ecomm-recs/
 ### Explanations
 
 - Build an **evidence bundle** (top categories/brands, price range, similarity reasons)
-- If `OPENAI_API_KEY` present → call provider with a concise prompt
-- Else → rule-based one-liner grounded in evidence (no hallucinations)
+- rule-based one-liner grounded in evidence (no hallucinations)
 
 ---
 
@@ -115,14 +110,6 @@ Regenerate a "why" for a specific (user, product).
 ```json
 {"user_id": "u1", "product_id": "p7"}
 ```
-
----
-
-## Demo video (what to show)
-1. Seed data and train
-2. Call `/users/u1/recommendations`
-3. Open `dashboard/index.html` and type `u1`
-4. Show explanations and re-run after a new event (`/events`)
 
 ---
 
