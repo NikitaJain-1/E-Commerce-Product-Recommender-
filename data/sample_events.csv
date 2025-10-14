@@ -1,0 +1,12 @@
+user_id,product_id,event_type,ts
+u1,p1,view,2025-09-15T10:00:00Z
+u1,p7,view,2025-09-16T10:00:00Z
+u1,p2,add_to_cart,2025-09-17T10:00:00Z
+u1,p6,purchase,2025-09-20T10:00:00Z
+u2,p3,view,2025-09-10T10:00:00Z
+u2,p4,view,2025-09-11T10:00:00Z
+u2,p3,add_to_cart,2025-09-12T10:00:00Z
+u2,p4,purchase,2025-09-14T10:00:00Z
+u3,p11,view,2025-09-05T10:00:00Z
+u3,p12,view,2025-09-06T10:00:00Z
+u3,p11,add_to_cart,2025-09-07T10:00:00Z

@@ -1,0 +1,13 @@
+product_id,title,brand,category,price,desc
+p1,Nike Air Zoom Pegasus,Nike,Shoes,8999,"Neutral road-running shoes with responsive cushioning"
+p2,Adidas Ultraboost,Adidas,Shoes,12999,"High-energy return running shoes for comfort"
+p3,Apple AirPods Pro,Apple,Electronics,24999,"Active noise cancellation with transparency mode"
+p4,Sony WH-1000XM5,Sony,Electronics,29999,"Industry-leading noise-canceling over-ear headphones"
+p5,Fitbit Versa 4,Fitbit,Wearables,17999,"Fitness smartwatch with heart-rate and sleep tracking"
+p6,Garmin Forerunner 245,Garmin,Wearables,23999,"GPS running smartwatch with advanced training features"
+p7,Nike Revolution 6,Nike,Shoes,4999,"Lightweight everyday running shoes"
+p8,Adidas Adizero Boston,Adidas,Shoes,10999,"Lightweight tempo running shoes"
+p9,OnePlus Buds 3,OnePlus,Electronics,7999,"Comfortable earbuds with balanced sound and ANC"
+p10,boAt Airdopes 441,boAt,Electronics,1999,"Affordable TWS with decent battery life"
+p11,Levi's 511 Slim Jeans,Levi's,Apparel,3499,"Stretch denim slim fit jeans"
+p12,Uniqlo AIRism Tee,Uniqlo,Apparel,990,"Breathable quick-dry crew neck t-shirt"
