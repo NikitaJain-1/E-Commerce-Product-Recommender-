@@ -119,3 +119,6 @@ Regenerate a "why" for a specific (user, product).
 - Replace co-occurrence with ALS/LightFM for stronger CF signals
 - Add diversity constraints & business rules
 - A/B test explanations (clarity, factuality)
+  
+## DEMO VIDEO 
+https://drive.google.com/file/d/109KTxK3Hq_RW3SR3YJ0YKEISBpOl0Jj4/view?usp=sharing
